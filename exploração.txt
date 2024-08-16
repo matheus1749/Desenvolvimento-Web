@@ -1,4 +1,5 @@
- refencia python- https://docs.python.org/pt-br/3/library/filesys.html
+Desenvolvimento Web, terceiro periodo, 2024
+refencia python- https://docs.python.org/pt-br/3/library/filesys.html
  referencia git- https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-O-B%C3%A1sico-do-Git
  referencia vscode- https://www.devmedia.com.br/guia-completo-do-visual-studio-code/43827
  referencia sqlite- https://sqlitebrowser.org/

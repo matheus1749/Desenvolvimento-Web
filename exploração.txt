@@ -1,0 +1,19 @@
+ refencia python- https://docs.python.org/pt-br/3/library/filesys.html
+ referencia git- https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-O-B%C3%A1sico-do-Git
+ referencia vscode- https://www.devmedia.com.br/guia-completo-do-visual-studio-code/43827
+ referencia sqlite- https://sqlitebrowser.org/
+
+ python- Python é conhecida por sua sintaxe limpa e legível, 
+ o que a torna uma escolha popular entre programadores de todos os níveis de experiência.
+
+ git- O GitHub é uma plataforma de desenvolvimento colaborativo que aloja 
+       projetos na nuvem utilizando o sistema de controle de versões chamado Git.
+      A plataforma ajuda os desenvolvedores a armazenar e administrar o código e faz o registro de mudanças.
+
+vs code- é um editor de código de código aberto desenvolvido pela Microsoft. A saber, ele está disponível para Windows, Mac e Linux. 
+         É criado com Electron, ferramenta criada pelo GitHub que permite a criação de softwares Desktop com HTML, CSS e JavaScript.
+
+sqlite-  é um tipo de banco de dados relacional, ou seja, aquele que cria arquivos com base na relação entre diferentes elementos,
+           geralmente assumindo a forma de uma tabela.
+         Porém, diferente de outros modelos, ele não depende de um servidor para armazenar suas informações.
+
